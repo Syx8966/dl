@@ -20,6 +20,9 @@
   这道题花费时间较少，大致框架与第一题相似，中间许多部分还是使用了书上的例子，增加了输出了内容，使得训练的过程更加可观。
 ### 测试
   测试了很多次，开始时准确率一直在88%左右，我尝试了增加学习率、增加训练代数、适当改变批量大小，最终准确率仍然在89%左右，最后一次测试中，我将批量设置为96，准确率得到了明显提高，达到92%。
-  
-  
-  
+  <div style="display:flex;justify-content:center;align-items:center;">
+  <img src="image.png" alt="测试1" style="width:50%;">
+  </div> 
+
+## <font size="9">3.Attention的理解和实现</font>
+  ### 正在写
