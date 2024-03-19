@@ -3,7 +3,8 @@
 
 ## <font size="9">1.全连接神经网络</font>
   这个部分花费了近4天的时间，主要是对神经网络先有一个大致的了解。在着手解题时首先遇到的问题时怎么导入数据，翻看资料后，采用下载MNIST数据集的方法:  
- `#加载MNIST数据集  `  
+`#加载MNIST数据集  `  
 `train_dataset = datasets.MNIST('./data', train=True, download=True, transform=transform)`  
 `test_dataset = datasets.MNIST('./data', train=False, transform=transform)`  
  并将批量设置成64.
+   最后在如何得到
